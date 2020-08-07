@@ -1,12 +1,10 @@
+# Access the project on demand
+https://github-jobs-nextjs-git-master.rfaelxlr.vercel.app/
+
 # Tailwind CSS example
 
 This is an example of using [Tailwind CSS](https://tailwindcss.com) in a Next.js project.
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
 ## How to use
 
